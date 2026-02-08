@@ -1,0 +1,42 @@
+Procedure,Age,Total_patients,readmission_patients,readmission_rate
+Angioplasty,45,1,0,0.0
+Angioplasty,48,31,31,1.0
+Angioplasty,55,33,33,1.0
+Antibiotics and Rest,48,1,0,0.0
+Antibiotics and Rest,52,64,0,0.0
+Appendectomy,45,32,0,0.0
+Appendectomy,55,1,0,0.0
+Appendectomy,60,33,33,1.0
+CT Scan and Medication,70,32,32,1.0
+CT Scan and Medication,75,1,1,1.0
+CT Scan and Medication,78,33,0,0.0
+Cardiac Catheterization,70,1,1,1.0
+Cardiac Catheterization,75,33,33,1.0
+Cardiac Catheterization,78,33,33,1.0
+Cast and Physical Therapy,40,34,0,0.0
+Cast and Physical Therapy,45,33,0,0.0
+Delivery and Postnatal Care,30,1,0,0.0
+Delivery and Postnatal Care,32,32,0,0.0
+Delivery and Postnatal Care,35,32,0,0.0
+Epinephrine Injection,25,34,0,0.0
+Epinephrine Injection,28,32,0,0.0
+Insulin Therapy,60,1,1,1.0
+Insulin Therapy,62,33,0,0.0
+Insulin Therapy,65,31,0,0.0
+Lithotripsy,50,32,0,0.0
+Lithotripsy,52,1,0,0.0
+Lithotripsy,55,32,0,0.0
+Medication and Counseling,68,33,0,0.0
+Medication and Counseling,72,33,0,0.0
+Physical Therapy and Pain Management,58,1,0,0.0
+Physical Therapy and Pain Management,60,31,0,0.0
+Physical Therapy and Pain Management,65,32,0,0.0
+Radiation Therapy,58,32,0,0.0
+Radiation Therapy,65,1,0,0.0
+Radiation Therapy,67,32,0,0.0
+Surgery and Chemotherapy,50,1,0,0.0
+Surgery and Chemotherapy,53,33,33,1.0
+Surgery and Chemotherapy,55,32,0,0.0
+X-Ray and Splint,30,32,0,0.0
+X-Ray and Splint,32,1,0,0.0
+X-Ray and Splint,35,33,33,1.0

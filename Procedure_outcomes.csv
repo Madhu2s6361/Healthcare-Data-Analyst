@@ -1,0 +1,42 @@
+Procedure,Age,Outcome,patient_count
+Angioplasty,45,Recovered,1
+Angioplasty,48,Recovered,31
+Angioplasty,55,Recovered,33
+Antibiotics and Rest,48,Stable,1
+Antibiotics and Rest,52,Stable,64
+Appendectomy,45,Recovered,32
+Appendectomy,55,Recovered,1
+Appendectomy,60,Recovered,33
+CT Scan and Medication,70,Stable,32
+CT Scan and Medication,75,Stable,1
+CT Scan and Medication,78,Stable,33
+Cardiac Catheterization,70,Stable,1
+Cardiac Catheterization,75,Stable,33
+Cardiac Catheterization,78,Stable,33
+Cast and Physical Therapy,40,Recovered,34
+Cast and Physical Therapy,45,Recovered,33
+Delivery and Postnatal Care,30,Recovered,1
+Delivery and Postnatal Care,32,Recovered,32
+Delivery and Postnatal Care,35,Recovered,32
+Epinephrine Injection,25,Recovered,34
+Epinephrine Injection,28,Recovered,32
+Insulin Therapy,60,Stable,1
+Insulin Therapy,62,Stable,33
+Insulin Therapy,65,Stable,31
+Lithotripsy,50,Recovered,32
+Lithotripsy,52,Recovered,1
+Lithotripsy,55,Recovered,32
+Medication and Counseling,68,Stable,33
+Medication and Counseling,72,Stable,33
+Physical Therapy and Pain Management,58,Stable,1
+Physical Therapy and Pain Management,60,Stable,31
+Physical Therapy and Pain Management,65,Stable,32
+Radiation Therapy,58,Recovered,32
+Radiation Therapy,65,Recovered,1
+Radiation Therapy,67,Recovered,32
+Surgery and Chemotherapy,50,Recovered,1
+Surgery and Chemotherapy,53,Recovered,33
+Surgery and Chemotherapy,55,Recovered,32
+X-Ray and Splint,30,Recovered,32
+X-Ray and Splint,32,Recovered,1
+X-Ray and Splint,35,Recovered,33
